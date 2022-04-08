@@ -1,2 +1,4 @@
 # CodeWars-Solutions
- My solutions for Katas in CodeWars
+ My solutions for Kata's in CodeWars.
+
+ [Profile CodeWars Ronnie Aguiar](https://www.codewars.com/users/RonnieAguiar)
